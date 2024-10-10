@@ -1,0 +1,5 @@
+C:\Users\Aluno\Documents\Sandyla\GerenciamentoBiblioteca\GerenciamentoBiblioteca\obj\Debug\net8.0\GerenciamentoBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\Sandyla\GerenciamentoBiblioteca\GerenciamentoBiblioteca\obj\Debug\net8.0\GerenciamentoBiblioteca.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Sandyla\GerenciamentoBiblioteca\GerenciamentoBiblioteca\obj\Debug\net8.0\GerenciamentoBiblioteca.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Sandyla\GerenciamentoBiblioteca\GerenciamentoBiblioteca\obj\Debug\net8.0\GerenciamentoBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Sandyla\GerenciamentoBiblioteca\GerenciamentoBiblioteca\obj\Debug\net8.0\GerenciamentoBiblioteca.sourcelink.json
